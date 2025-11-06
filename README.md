@@ -9,8 +9,8 @@ A complete journey through LeetCode's 30 Days of JavaScript study plan, covering
 |-----|---------|------------|---------|-----------|
 | 1 | [Create Hello World Function](day-01-create-hello-world/) | Easy | ✅ Completed | Higher-order functions, closures |
 | 2 | [Counter](day-02-counter/) | Easy | ✅ Completed | Closures, state management |
-| 3 | [To Be Or Not To Be](day-03-to-be-or-not-to-be/) | Easy | 🔄 In Progress | Type checking, function returns |
-| 4 | [Counter II](day-04-counter-ii/) | Easy | ❌ Not Started | Object methods, closures |
+| 3 | [To Be Or Not To Be](day-03-to-be-or-not-to-be/) | Easy | ✅ Completed | Type checking, function returns |
+| 4 | [Counter II](day-04-counter-ii/) | Easy | 🔄 In Progress | Object methods, closures |
 
 ### **Basic Array Transformations**
 | Day | Problem | Difficulty | Status | Concepts |
