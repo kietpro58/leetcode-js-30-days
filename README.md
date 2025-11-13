@@ -16,8 +16,8 @@ A complete journey through LeetCode's 30 Days of JavaScript study plan, covering
 | Day | Problem | Difficulty | Status | Concepts |
 |-----|---------|------------|---------|-----------|
 | 5 | [Apply Transform Over Each Element in Array](day-05-apply-transform/) | Easy | ✅ Completed | Array.map(), callbacks |
-| 6 | [Filter Elements from Array](day-06-filter-elements/) | Easy | 🔄 In Progress | Array.filter(), conditional logic |
-| 7 | [Array Reduce Transformation](day-07-array-reduce/) | Easy | ❌ Not Started | Array.reduce(), accumulators |
+| 6 | [Filter Elements from Array](day-06-filter-elements/) | Easy | ✅ Completed | Array.filter(), conditional logic |
+| 7 | [Array Reduce Transformation](day-07-array-reduce/) | Easy | 🔄 In Progress | Array.reduce(), accumulators |
 
 ### **Function Transformations**
 | Day | Problem | Difficulty | Status | Concepts |
