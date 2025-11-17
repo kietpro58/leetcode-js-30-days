@@ -17,12 +17,12 @@ A complete journey through LeetCode's 30 Days of JavaScript study plan, covering
 |-----|---------|------------|---------|-----------|
 | 5 | [Apply Transform Over Each Element in Array](day-05-apply-transform/) | Easy | ✅ Completed | Array.map(), callbacks |
 | 6 | [Filter Elements from Array](day-06-filter-elements/) | Easy | ✅ Completed | Array.filter(), conditional logic |
-| 7 | [Array Reduce Transformation](day-07-array-reduce/) | Easy | 🔄 In Progress | Array.reduce(), accumulators |
+| 7 | [Array Reduce Transformation](day-07-array-reduce/) | Easy | ✅ Completed | Array.reduce(), accumulators |
 
 ### **Function Transformations**
 | Day | Problem | Difficulty | Status | Concepts |
 |-----|---------|------------|---------|-----------|
-| 8 | [Function Composition](day-08-function-composition/) | Easy | ❌ Not Started | Function composition, reduceRight |
+| 8 | [Function Composition](day-08-function-composition/) | Easy | 🔄 In Progress | Function composition, reduceRight |
 | 9 | [Return Length of Arguments Passed](day-09-arguments-length/) | Easy | ❌ Not Started | Rest parameters, arguments object |
 | 10 | [Allow One Function Call](day-10-allow-one-call/) | Easy | ❌ Not Started | Function calls, once wrapper |
 | 11 | [Memoize](day-11-memoize/) | Medium | ❌ Not Started | Caching, memoization, Map |
